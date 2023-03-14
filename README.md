@@ -11,3 +11,4 @@ Access Link: [F2P Gaming Retool App](https://isaacstyle.retool.com/embedded/publ
 #### Update History
 
 Feb 28 - First Completed
+Mar 3 - Responsive on Mobile
